@@ -1,0 +1,4 @@
+#Mon Jan 07 16:28:35 EST 2019
+base.0=/home/jiaming/BBMProject/DataRetrive/app/build/intermediates/transforms/dexMerger/debug/6
+path.0=classes.dex
+renamed.0=classes.dex
